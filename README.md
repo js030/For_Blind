@@ -24,8 +24,7 @@
        <h5> 크고 단순한 버튼 사용
        
 <h2> 개발 환경
-![image](https://user-images.githubusercontent.com/96820952/208852535-bf421395-ad6d-4c6b-a8cb-6603bcb7dd6f.png) 
-![image](https://user-images.githubusercontent.com/96820952/208852588-6a01d2f6-b291-4873-ac6c-3eb689ac14f7.png)
+![image](https://user-images.githubusercontent.com/96820952/208852535-bf421395-ad6d-4c6b-a8cb-6603bcb7dd6f.png) ![image](https://user-images.githubusercontent.com/96820952/208852588-6a01d2f6-b291-4873-ac6c-3eb689ac14f7.png)
 
 
 
