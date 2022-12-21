@@ -22,6 +22,10 @@
      <h4> - 접근성을 높인 디자인
        <h5> 시각장애가 있어도 노란색은 인지가 가능한것과 노란색의 보색인 검정색을 사용하여 인식의 편리함
        <h5> 크고 단순한 버튼 사용
+       
+<h2> 개발 환경
+![image](https://user-images.githubusercontent.com/96820952/208852535-bf421395-ad6d-4c6b-a8cb-6603bcb7dd6f.png) 
+![image](https://user-images.githubusercontent.com/96820952/208852588-6a01d2f6-b291-4873-ac6c-3eb689ac14f7.png)
 
-![image](https://user-images.githubusercontent.com/96820952/208852535-bf421395-ad6d-4c6b-a8cb-6603bcb7dd6f.png) ![image](https://user-images.githubusercontent.com/96820952/208852588-6a01d2f6-b291-4873-ac6c-3eb689ac14f7.png)
+
 
